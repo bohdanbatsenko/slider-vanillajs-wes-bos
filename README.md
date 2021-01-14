@@ -1,0 +1,3 @@
+# Slider project
+
+Slider JavaScript
